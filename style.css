@@ -3,8 +3,8 @@
 
 
 body{
-    background-color: rgb(224, 231, 238);
-    color: black;
+    background-color: rgb(7, 7, 7);
+    color: rgb(242, 236, 236);
     text-align: center;
     font-family: "Nunito Sans", sans-serif;
     border: 3px solid;
@@ -22,4 +22,9 @@ p{
 
 em strong{
         color: red;
+}
+
+
+#banner{
+    width: 100%;
 }
