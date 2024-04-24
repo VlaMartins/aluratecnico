@@ -14,7 +14,7 @@ h1 {
     text-align: center;
     background-color: rgb(36, 37, 37) ; 
     height: 100px;
-    border: 10px dotted rgb(223, 223, 193);
+    border: 10px solid rgb(223, 223, 193);
     padding: 20px;
 }
 
