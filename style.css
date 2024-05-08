@@ -41,7 +41,7 @@ em strong{
 }
 
 .beneficios{
-    background: #e7e4e4;
+    background: red;
     padding: 20px;
 }
 
@@ -52,6 +52,7 @@ h2{
 .imagembeneficios {
     width: 50%;
 }
+
 
 ul {
     display: inline-block;
