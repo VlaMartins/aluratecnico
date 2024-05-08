@@ -35,4 +35,36 @@ em strong{
     text-align: left;
 }
 
+.principal {
+    background: #CCCCCC;
+    padding: 30px;
+}
 
+.beneficios{
+    background: red;
+    padding: 20px;
+}
+
+h2{
+    text-align: center;
+}
+
+.imagembeneficios {
+    width: 50%;
+}
+
+li {
+    border: 3px solid black;
+ 
+}
+
+ul {
+    display: inline-block;
+}
+
+ul {
+    display: inline-block;
+    vertical-align: top; 
+    width: 20%;
+    margin-right: 15%;
+}
