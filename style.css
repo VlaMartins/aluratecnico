@@ -53,15 +53,11 @@ h2{
     width: 50%;
 }
 
-
-ul {
-    display: inline-block;
-    border: 3px solid black;
-}
-
 ul {
     display: inline-block;
     vertical-align: top; 
     width: 20%;
     margin-right: 15%;
+    border: 3px solid black;
+    margin-top : 50px;
 }
