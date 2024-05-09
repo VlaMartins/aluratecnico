@@ -36,8 +36,9 @@ em strong{
 }
 
 .principal {
-    background: yellow;
+    background: black;
     padding: 30px;
+    margin: 20px;
 }
 
 .beneficios{
