@@ -13,6 +13,7 @@ nav {
 	position: absolute;
 	top: 110px;
 	right: 0;
+
 }
 
 nav li {
@@ -32,6 +33,7 @@ nav a:hover {
 	color: yellowgreen;
 	text-decoration: underline;
 	background-color: red;
+	font-size: 20px;
 }
 
 .produtos {
