@@ -30,9 +30,8 @@ nav a {
 }
 
 nav a:hover {
-	color: yellowgreen;
+	color: rgb(72, 92, 32);
 	text-decoration: underline;
-	background-color: red;
 	font-size: 20px;
 }
 
