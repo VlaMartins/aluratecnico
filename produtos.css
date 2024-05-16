@@ -31,6 +31,7 @@ nav a {
 nav a:hover {
 	color: yellowgreen;
 	text-decoration: underline;
+	background-color: red;
 }
 
 .produtos {
