@@ -30,7 +30,7 @@ nav a {
 }
 
 nav a:hover {
-	color: rgb(72, 92, 32);
+	color: rgb(242, 248, 231);
 	text-decoration: underline;
 	font-size: 20px;
 }
@@ -55,7 +55,7 @@ nav a:hover {
 
 .produtos li:hover {
 	border-color: #C78C19;
-	background-color: yellowgreen;
+	background-color: rgb(233, 245, 211);
 }
 
 .produtos li:active {
