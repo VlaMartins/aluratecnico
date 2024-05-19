@@ -30,6 +30,11 @@ em strong{
     width: 70%;
 }
 
+#missao {
+	font-size: 20px
+}
+
+
 .itens{
     font-style: italic;   
     text-align: left;
