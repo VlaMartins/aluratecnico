@@ -64,7 +64,7 @@ em strong {
     width: 30%;
 }
 
-#menu {
+nav ul {
     display: inline-block;
     vertical-align: top;
     width: 20%;
