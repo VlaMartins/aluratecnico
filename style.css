@@ -73,6 +73,46 @@ nav ul {
     font-size: 18px;
 }
 
+/*menu */
+header {
+	background: #BBBBBB;
+	padding: 20px 0;
+}
+
+.caixa {
+	position: relative;
+	width: 940px;
+	margin: 0 auto;
+}
+
+nav {
+	position: absolute;
+	top: 110px;
+	right: 0;
+
+}
+
+nav li {
+	display: flex;
+	margin: 0 0 0 15px;
+}
+
+nav a {
+	/*text-transform: uppercase;*/
+	color: #000000;
+	font-weight: bold;
+	font-size: 22px;
+	text-decoration: none;
+}
+
+nav a:hover {
+	color: rgb(242, 248, 231);
+	text-decoration: underline;
+	font-size: 20px;
+}
+
+
+
 /*estilizaçao da parte MAPA e VIDEO */
 
 .mapa {
