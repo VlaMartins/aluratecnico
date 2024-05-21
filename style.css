@@ -65,7 +65,7 @@ em strong {
 }
 
 nav ul {
-    display: inline;
+    display: flex;
     vertical-align: top;
     width: 20%;
     margin-right: 15%;
